@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Resultado</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" class="logo" />
+    <h2 id="area" class="resultado-area"></h2>
+    <div id="carreras"></div>
+    <div id="universidades"></div>
+  </div>
+
+  <script src="scripts/resultado.js" defer></script>
+  <script>
+    // Mostrar nombre junto con el resultado
+    document.addEventListener("DOMContentLoaded", () => {
+      const nombre = sessionStorage.getItem("nombre") || "";
+      const areaTexto = document.getElementById("area").textContent;
+      if (nombre) {
+        document.getElementById("area").textContent = `¡Gracias, ${nombre}! ${areaTexto}`;
+      }
+    });
+  </script>
+</body>
+</html>

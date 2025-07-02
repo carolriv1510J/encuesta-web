@@ -1,0 +1,421 @@
+[
+  {
+    "carrera": "Ingeniería en Ciencias de la Computación",
+    "universidad": "ESPOL",
+    "puntaje": 856,
+    "campo": "Desarrollo de software, redes",
+    "area": "informatica",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI013"
+  },
+  {
+    "carrera": "Ingeniería en Ciencias de la Computación",
+    "universidad": "UCSG",
+    "puntaje": 793,
+    "campo": "Ingeniería computacional",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "universidad": "ESPOL",
+    "puntaje": 721,
+    "campo": "Desarrollo de aplicaciones",
+    "area": "informatica",
+    "malla": "https://www.ucsgtec.edu.ec/wp-content/uploads/2025/03/Malla-Software.pdf"
+  },
+  {
+    "carrera": "Ingeniería en Software",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 776,
+    "campo": "Software empresarial",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ciberseguridad / Ciencia de Datos",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 894,
+    "campo": "Protección de datos y análisis digital",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ciberseguridad / Ciencia de Datos",
+    "universidad": "ESPOL",
+    "puntaje": 855,
+    "campo": "Seguridad informática y ciencia de datos",
+    "area": "informatica",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029"
+  },
+  {
+    "carrera": "Robótica y Mecatrónica",
+    "universidad": "ESPOL",
+    "puntaje": 806,
+    "campo": "Automatización, control industrial",
+    "area": "informatica",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI022"
+  },
+  {
+    "carrera": "Robótica y Mecatrónica",
+    "universidad": "UPS",
+    "puntaje": 810,
+    "campo": "Electrónica, mecatrónica aplicada",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Redes y Telecomunicaciones",
+    "universidad": "ESPOL",
+    "puntaje": 867,
+    "campo": "Infraestructura de redes",
+    "area": "informatica",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI017"
+  },
+  {
+    "carrera": "Redes y Telecomunicaciones",
+    "universidad": "UCSG",
+    "puntaje": 832,
+    "campo": "Sistemas de comunicación digital",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Desarrollo de Videojuegos",
+    "universidad": "UCSG",
+    "puntaje": 830,
+    "campo": "Diseño y desarrollo de videojuegos",
+    "area": "informatica",
+    "malla": "https://www.ucsg.edu.ec/wp-content/uploads/pdf/presencial/fac-artes/videojuegos/Malla-carrera-videojuego.pdf"
+  },
+  {
+    "carrera": "Desarrollo de Videojuegos",
+    "universidad": "Ecotec",
+    "puntaje": 800,
+    "campo": "Tecnologías gráficas y simulación",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Realidad Virtual y Aumentada",
+    "universidad": "UEES",
+    "puntaje": 830,
+    "campo": "Simulación inmersiva y multimedia",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Realidad Virtual y Aumentada",
+    "universidad": "Ecotec",
+    "puntaje": 800,
+    "campo": "Aplicaciones interactivas y gráficas",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Informática Biomédica / Bioinformática",
+    "universidad": "Universidad Bolivariana del Ecuador",
+    "puntaje": 855,
+    "campo": "Datos médicos, genómica computacional",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Informática Biomédica / Bioinformática",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 810,
+    "campo": "Biología computacional",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Nanotecnología / Ciencias de Materiales",
+    "universidad": "ESPOL",
+    "puntaje": 790,
+    "campo": "Nanomateriales y análisis físico-químico",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Nanotecnología / Ciencias de Materiales",
+    "universidad": "Universidad Bolivariana del Ecuador",
+    "puntaje": 855,
+    "campo": "Investigación en nanomateriales",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Ingeniería en Telemática / IoT",
+    "universidad": "ESPOL",
+    "puntaje": 833,
+    "campo": "Internet de las cosas, redes inteligentes",
+    "area": "informatica",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI018"
+  },
+  {
+    "carrera": "Ingeniería en Telemática / IoT",
+    "universidad": "UCSG",
+    "puntaje": 810,
+    "campo": "Dispositivos conectados y telemetría",
+    "area": "informatica"
+  },
+  {
+    "carrera": "Contaduría Pública",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 877,
+    "campo": "Contabilidad general y auditoría",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contaduría Pública",
+    "universidad": "UCSG",
+    "puntaje": 867,
+    "campo": "Normas internacionales contables",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Auditoría",
+    "universidad": "ESPOL",
+    "puntaje": 833,
+    "campo": "Contabilidad financiera y fiscal",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Auditoría",
+    "universidad": "UPS",
+    "puntaje": 806,
+    "campo": "Auditoría interna y gestión",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Gestión Tributaria",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 860,
+    "campo": "Impuestos y planificación fiscal",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Gestión Tributaria",
+    "universidad": "UCSG",
+    "puntaje": 850,
+    "campo": "Gestión tributaria y legislación",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Control de Gestión",
+    "universidad": "ESPOL",
+    "puntaje": 833,
+    "campo": "Gestión presupuestaria y análisis financiero",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Control de Gestión",
+    "universidad": "Universidad Bolivariana del Ecuador",
+    "puntaje": 850,
+    "campo": "Control contable y planificación",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad Forense",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 855,
+    "campo": "Investigación de fraudes financieros",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad Forense",
+    "universidad": "UCSG",
+    "puntaje": 855,
+    "campo": "Auditoría legal y contabilidad criminal",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Análisis Financiero",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 880,
+    "campo": "Análisis financiero avanzado",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Análisis Financiero",
+    "universidad": "UVG",
+    "puntaje": 850,
+    "campo": "Análisis de estados contables",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad Gubernamental",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 855,
+    "campo": "Gestión pública y presupuestaria",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad Gubernamental",
+    "universidad": "ESPOL",
+    "puntaje": 830,
+    "campo": "Contabilidad estatal",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad de Costos",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 880,
+    "campo": "Costeo industrial y presupuestos",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad de Costos",
+    "universidad": "UPS",
+    "puntaje": 810,
+    "campo": "Contabilidad de manufactura",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Finanzas",
+    "universidad": "UCSG",
+    "puntaje": 855,
+    "campo": "Gestión financiera integral",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad y Finanzas",
+    "universidad": "UVG",
+    "puntaje": 830,
+    "campo": "Análisis económico y contable",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad Internacional",
+    "universidad": "ESPOL",
+    "puntaje": 830,
+    "campo": "Normas internacionales de información financiera",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Contabilidad Internacional",
+    "universidad": "UCSG",
+    "puntaje": 855,
+    "campo": "Contabilidad global y auditoría internacional",
+    "area": "contabilidad"
+  },
+  {
+    "carrera": "Biología",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 841,
+    "campo": "Estudios biológicos y biodiversidad",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Biología",
+    "universidad": "ESPOL",
+    "puntaje": 830,
+    "campo": "Investigación científica y ambiental",
+    "area": "ciencia",
+    "malla": "https://mallacurricular.espol.edu.ec//Malla/Imagen?codCarrera=CI011"
+  },
+  {
+    "carrera": "Química",
+    "universidad": "ESPOL",
+    "puntaje": 830,
+    "campo": "Procesos químicos, laboratorio",
+    "area": "ciencia",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI002"
+  },
+  {
+    "carrera": "Química",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 855,
+    "campo": "Análisis químico, industria",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Física",
+    "universidad": "ESPOL",
+    "puntaje": 830,
+    "campo": "Investigación física y docencia",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Física",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 855,
+    "campo": "Aplicaciones científicas y tecnológicas",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Biotecnología",
+    "universidad": "UPS",
+    "puntaje": 830,
+    "campo": "Tecnología biológica aplicada",
+    "area": "ciencia",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI002"
+  },
+  {
+    "carrera": "Biotecnología",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 855,
+    "campo": "Mejoramiento genético, investigación",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Ciencias Ambientales",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 766,
+    "campo": "Medio ambiente y sostenibilidad",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Ciencias Ambientales",
+    "universidad": "ESPOL",
+    "puntaje": 828,
+    "campo": "Gestión ambiental y conservación",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Geología",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 616,
+    "campo": "Estudios del suelo y recursos minerales",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Geología",
+    "universidad": "ESPOL",
+    "puntaje": 689,
+    "campo": "Exploración geológica y minería",
+    "area": "ciencia",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI012"
+  },
+  {
+    "carrera": "Bioquímica y Farmacia",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 861,
+    "campo": "Farmacia, análisis clínicos",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Bioquímica y Farmacia",
+    "universidad": "UPS",
+    "puntaje": 830,
+    "campo": "Procesos químicos farmacéuticos",
+    "area": "ciencia",
+    "malla": "https://bioquimicayfarmaciagye.ups.edu.ec/documents/20121/2040716/Bioquímica+y+Farmacia+-+MC.pdf"
+  },
+  {
+    "carrera": "Ciencias del Mar / Oceanografía",
+    "universidad": "ESPOL",
+    "puntaje": 830,
+    "campo": "Estudios marinos, recursos acuáticos",
+    "area": "ciencia",
+    "malla": "https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI025"
+  },
+  {
+    "carrera": "Ciencias del Mar / Oceanografía",
+    "universidad": "UPSE",
+    "puntaje": 800,
+    "campo": "Ecosistemas marinos y sostenibilidad",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Ciencias Genómicas",
+    "universidad": "ESPOL",
+    "puntaje": 830,
+    "campo": "Genética, bioinformática y salud",
+    "area": "ciencia"
+  },
+  {
+    "carrera": "Ciencias Genómicas",
+    "universidad": "Universidad de Guayaquil",
+    "puntaje": 855,
+    "campo": "Estudios moleculares y medicina genética",
+    "area": "ciencia"
+  }
+]
